@@ -1,5 +1,3 @@
----
-
 # **Step 0: Prep Environment**
 
 Check cluster nodes:
