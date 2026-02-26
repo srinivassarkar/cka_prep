@@ -504,14 +504,23 @@ If status False:
 # 🔥 MASTER CHECKLIST (MEMORIZE THIS)
 
 ✔ Scheduler uses requests
+
 ✔ Limits enforced by kernel
+
 ✔ CPU → throttled
+
 ✔ Memory → OOM kill
+
 ✔ LimitRange → namespace scoped
+
 ✔ Requests decide density
+
 ✔ QoS affects OOM order
+
 ✔ Limit must be >= Request
+
 ✔ metrics-server required for kubectl top
+
 ✔ Node Allocatable used for scheduling
 
 ---
