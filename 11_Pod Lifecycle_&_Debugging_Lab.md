@@ -501,12 +501,8 @@ version tag → IfNotPresent
 ```
 
 ---
-Below is a **clean Advanced Section** you can append to the same GitHub markdown doc.
-It keeps the **same lab-notebook style** and focuses on **real DevOps debugging incidents**, which is perfect for CKA prep.
 
----
-
-# Advanced Section — Real-World Kubernetes Debugging Scenarios
+## Advanced Section — Real-World Kubernetes Debugging Scenarios
 
 These scenarios simulate **actual production incidents** that DevOps engineers investigate.
 
