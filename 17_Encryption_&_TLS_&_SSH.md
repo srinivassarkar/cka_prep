@@ -1,8 +1,11 @@
 # 🧠 The ONE Big Idea 
 
 > **Asymmetric = trust + identity**
+
 > **Symmetric = speed + data encryption**
+
 > **TLS = combo of both**
+
 > **Kubernetes = mTLS everywhere**
 
 ---
