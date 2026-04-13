@@ -99,7 +99,7 @@ Modern TLS:
 
 ---
 
-# 🏢 Layer 3: Certificate Authorities (Day 31)
+# 🏢 Layer 3: Certificate Authorities
 
 ## 3 Types (Interview Gold)
 
@@ -168,7 +168,7 @@ Why?
 
 ---
 
-# ☸️ Layer 6: Kubernetes Reality (Day 32)
+# ☸️ Layer 6: Kubernetes Reality 
 
 Now everything connects 👇
 
