@@ -268,10 +268,6 @@ TLS + RBAC (not strict cert validation)
 
 ---
 
-👉 This connects directly to **Day 34 (CSR)**
-
----
-
 # ⚡ CSR + USER ACCESS (REAL WORLD)
 
 ---
