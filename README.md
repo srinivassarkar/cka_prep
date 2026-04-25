@@ -1,1 +1,1 @@
-# cka_prep
+# this repo contains my k8s notes + labs 
