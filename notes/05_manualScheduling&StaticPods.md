@@ -1,4 +1,4 @@
-# Kubernetes Pod Scheduling: Manual Scheduling & Static Pods — CKA + Senior Interview Master Guide
+# Kubernetes Pod Scheduling: Manual Scheduling & Static Pods 
 
 ---
 
