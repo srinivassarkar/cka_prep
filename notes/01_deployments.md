@@ -80,16 +80,6 @@ Do you need pods to run reliably and recover from failures?
 ## 3. Internal Working 🔩
 *How it actually happens under the hood — step by step*
 
-### How a Kind cluster boots up
-
-1. You run `kind create cluster --name my-first-cluster --config kind-cluster.yaml`
-2. Kind reads the YAML — it sees 1 control-plane node and 2 worker nodes
-3. Kind pulls the `kindest/node` Docker image (pinned by SHA256 in the config)
-4. Three Docker containers spin up — one per node
-5. Inside each container, `kubeadm` bootstraps the Kubernetes components
-6. A `kubeconfig` entry is written to `~/.kube/config` on your machine
-7. `kubectl` is now pointed at that cluster via the new context
-
 ### How a ReplicaSet maintains desired state
 
 1. You apply a ReplicaSet manifest (3 replicas, selector `app: nginx`)
